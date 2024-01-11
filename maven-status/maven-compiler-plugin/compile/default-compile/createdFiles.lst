@@ -1,0 +1,7 @@
+net/javaguides/springboot/controller/CrfController.class
+net/javaguides/springboot/repository/CrfRepository.class
+net/javaguides/springboot/exception/ResourceNotFoundException.class
+net/javaguides/springboot/model/Crf.class
+net/javaguides/springboot/ChangeRequestFormApplication.class
+net/javaguides/springboot/service/CrfService.class
+net/javaguides/springboot/service/impl/CrfServiceImpl.class
